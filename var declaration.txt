@@ -1,0 +1,27 @@
+</VARIABLE DECLARATION>
+
+var name = 'John';
+console.log(name); Output is John
+ 
+ <Data types> 
+ Number,String,Boolean,undefined
+ 
+ var data=1;
+ console.log(typeof data); Output is number
+ var data= "spandana";
+ console.log(typeof data); output is String
+ var data = "true";
+ console.log(typeof data); output is Boolean
+ var data;
+ console.log(typeof data); output is undefined
+ 
+ <Arrays & Objects>
+ 
+ var data=[1,2,3,4,5];
+ console.log(data);    output is [1,2,3,4,5]
+ console.log(data[0]); output is 1
+ console.log(data[1]); ouptu is  2
+ 
+ var data=[name:'John',age:28];
+ console.log(data.name); output is John
+ 
