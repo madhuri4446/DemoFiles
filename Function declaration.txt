@@ -1,0 +1,17 @@
+<function declaration>
+function user()
+{
+console.log('HELLO WORLD');
+}
+output is HELLO WORLD
+
+<function with parameters>
+functionuser(num1,num2)
+{
+return num1+num2;
+}
+var data=user(10,5);
+console.log(data);
+
+output is 15
+
